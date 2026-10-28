@@ -1,0 +1,19 @@
+{
+  "name": "DRISHTI OPTICAL GST Billing",
+  "short_name": "Drishti Billing",
+  "description": "Offline GST billing for DRISHTI OPTICAL",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f2f5",
+  "theme_color": "#20244f",
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
